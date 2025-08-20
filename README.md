@@ -8,7 +8,6 @@
 - Cloud & Docker for deployment  
 
 
-
 ## 🌐 Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashi-gupta-285683214/)  
@@ -51,10 +50,3 @@
 
 ---
 
-## 📈 Contribution Graph  
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashi-gupta18&theme=react-dark&hide_border=true)  
-
----
-
-⭐ **Don’t forget to star repositories you like!**  
