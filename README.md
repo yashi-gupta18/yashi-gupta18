@@ -47,13 +47,13 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashi-gupta18&layout=compact&theme=radical)  
 
-![Streak Stats](https://streak-stats.demolab.com?user=yashi-gupta&theme=radical&hide_border=false)  
+![Streak Stats](https://streak-stats.demolab.com?user=yashi-gupta18&theme=radical&hide_border=false)  
 
 ---
 
 ## 📈 Contribution Graph  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashi-gupta&theme=react-dark&hide_border=true)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashi-gupta18&theme=react-dark&hide_border=true)  
 
 ---
 
